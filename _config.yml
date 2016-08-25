@@ -1,0 +1,29 @@
+name: LLLearning
+favicon: null
+layout_spectrum: 0.6951962281018496
+typography_spectrum: 0.38903320697136223
+title: LifeLongLearning
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2728340656030923
+  lightness: 0.18051597871817648
+  saturation: 0.6969575844705105
+  rhythmicContrast: 0.9714424647390842
+purpose: []
